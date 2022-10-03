@@ -1,1 +1,10 @@
 /* CSS de @SoyDalto */
+/* Especificidad (!important) */
+
+#color-blue{
+    color: blue;
+}
+
+h1{
+    color: gray !important;
+}
